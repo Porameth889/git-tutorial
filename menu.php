@@ -1,7 +1,5 @@
-<?php echo "Porameth"; ?>
-<?php echo "6411130035"; ?>
+<?php echo "Thanawut"; ?>
+<?php echo "6411130006"; ?>
 
 <?php echo "Computer Engineering"; ?>
 <?php echo "Mahanakorn"; ?>
-
-<?php echo "I love you so!!!"; ?>
