@@ -7,3 +7,4 @@
 <?php echo "Mahanakorn"; ?>
 
 <?php echo "putang ina mo"; ?>
+<?php echo "putang ina mo"; ?>
